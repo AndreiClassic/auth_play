@@ -24,6 +24,7 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseCors();
+
 // Serve HTTP without redirecting to HTTPS so the container can run without certificates.
 
 var summaries = new[]

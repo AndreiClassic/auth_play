@@ -8,6 +8,13 @@ fetches the weather forecast from the backend and displays it.
 
 Next steps will introduce a local goauthentik deployment, all orchestrated with
 Docker.
-=======
-Further steps will introduce a Vue.js frontend and a local goauthentik
-deployment, all orchestrated with Docker.
+## Running with Docker Compose
+
+Build and start both the backend and frontend services:
+
+```
+docker compose up --build
+```
+
+The backend is available at <http://localhost:8080> and the frontend at
+<http://localhost:8081>.
