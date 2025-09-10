@@ -8,7 +8,6 @@ fetches the weather forecast from the backend and displays it.
 
 Next steps will introduce a local goauthentik deployment, all orchestrated with
 Docker.
-
 ## Running with Docker Compose
 
 Build and start both the backend and frontend services:
