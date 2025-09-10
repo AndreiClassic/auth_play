@@ -8,3 +8,6 @@ fetches the weather forecast from the backend and displays it.
 
 Next steps will introduce a local goauthentik deployment, all orchestrated with
 Docker.
+=======
+Further steps will introduce a Vue.js frontend and a local goauthentik
+deployment, all orchestrated with Docker.
